@@ -22,3 +22,14 @@ Before running the bot, make sure you have the following prerequisites installed
    ```bash
    git clone https://github.com/yourusername/cryptocurrency-telegram-bot.git
    cd cryptocurrency-telegram-bot
+
+
+2. Run requerments.txt:
+
+   ```bash
+   pip install -r requerments.txt
+
+3. Run bot
+
+      ```bash
+   python bot.py
